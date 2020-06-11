@@ -1,0 +1,3 @@
+                      TAKEN BOOK LIST
+        ORDER: TITLE | AUTHOR | ISBN-10 | MEMBER  
+ Why C Doesn't Understand Booleans | God Himself |7777777777777

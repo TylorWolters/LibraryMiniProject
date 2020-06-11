@@ -1,0 +1,8 @@
+                      BOOK LIST
+        ORDER: TITLE | AUTHOR | ISBN-10  
+
+The Book of Five Rings | Miyamoto Musashi | 1590309847
+The War of Art | Steven Pressfield | 1501260626
+Lovecraftian Horrors Guide | Sandy Peterson | 1568820836
+Leaf River | Jacob Bellamay | 1524845683
+Fantastic Mr. Fox | Roald Dahl |9780142410349

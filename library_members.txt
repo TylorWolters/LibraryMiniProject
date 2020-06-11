@@ -1,0 +1,6 @@
+                    LIBRARY MEMBERS
+ORDER: MEMBER ID | FIRST/LAST NAME | ADDRESS | AGE  
+ID1 | Douglas Wolters | 166 Pinecroft_Ln, Rockton IL. 61072 | 53
+ID2 | Jacob Jacobson | 365 Evergreen_Terrace_Dr, Rockford IL. 12347 | 22
+ID3 | Shea Ruthe | 766 Leslie_Rd, Roscoe WI. 93843 | 22
+ID4 | Pierce Connors | 987 Winter_St, Leaf_River IL. 11097 | 23
